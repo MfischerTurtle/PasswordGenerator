@@ -1,6 +1,6 @@
-#PASSWORD GENERATOR
+# PASSWORD GENERATOR
 
-##Description: Generates a randomized password after going through some promts 
+## Description: Generates a randomized password after going through some promts 
 
 When the user clicks the button "Generate Password" they are first be promoted for their password length. If outside the range of 8-55, the user will be prompted to once again enter a password length within the porper range. The prompt will loop until the user enters a valid number.
 
@@ -9,3 +9,10 @@ The program then prompts the user to define if they would like to include number
 When all parameters have been defined, the password will appear within the password box.
 
 Technologies Used: HTML, CSS3, JavaScript
+
+![how_long](./pics/howlong)
+![numbers](./pics/howmanynumbers.png)
+![lowercase](./pics/lowercase.png)
+![char](./pics/specialchar.png)
+![uppercase](./pics/uppercase.png)
+![password](./pics/password.png)
