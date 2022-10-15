@@ -10,7 +10,7 @@ When all parameters have been defined, the password will appear within the passw
 
 Technologies Used: HTML, CSS3, JavaScript
 
-![how_long](./pics/howlong)
+![howlong](./pics/howlong)
 ![numbers](./pics/howmanynumbers.png)
 ![lowercase](./pics/lowercase.png)
 ![char](./pics/specialchar.png)
